@@ -3,3 +3,4 @@ Hello
 Namaste
 Guten Tag
 Hola
+Konnichiwa
